@@ -693,7 +693,7 @@ margin: .8rem 0;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    padding: 3rem 9%;
+    padding: 10rem 9%;
     background: var(--second-bg-color);
 }
 
